@@ -1,0 +1,35 @@
+nav{
+    background: lightcyan;
+}
+
+ul{
+    list-style: none;
+  
+}
+ul li{
+    display: inline;
+}
+header{
+    height: 400px;
+    background: burlywood;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    background: brown;
+    
+   
+}
+p{
+    width:300px;
+    margin: 30px;
+}
+.specialText{
+    color: cadetblue;
+}
+
+table tbody tr:nth-child(2) {
+   
+    font-size: 30px;
+}
