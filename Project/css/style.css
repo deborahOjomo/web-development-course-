@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+
+#navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(130, 176, 255, 0.877);
+  top: 0;
+  width: 100%;
+  position: fixed;
+  left: 0;
+}
+
+.navigation-item {
+  float: right;
+}
+
+.navigation-item a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Comfortaa', cursive;
+  padding-top: 40px;
+  height: 100%;
+}
+
+.navigation-item a:hover {
+  font-weight: 1000;
+}
+
+.nav-logo {
+  float: left;
+  display: block;
+}
+
+#logo {
+  width: 100px;
+  padding-left: 10px;
+}
+
+h1 {
+  font-family: 'Caveat', cursive;
+  margin: 0px;
+  color:  rgba(32, 45, 68, 0.877);;
+  padding-left: 10px;
+  padding-top: 20px
+}
+
+h2 {
+  font-family: 'Comfortaa', cursive;
+  margin: 0px;
+  font-size: 16px;
+  padding-left: 15px;
+}

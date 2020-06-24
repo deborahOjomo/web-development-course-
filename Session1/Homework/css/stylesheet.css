@@ -1,0 +1,13 @@
+.section1{
+    background-color: darkkhaki;
+}
+
+.section2{
+    background-color: skyblue;
+}
+
+#article{
+    width: 50%;
+    height: 100%;
+    border: solid;
+}

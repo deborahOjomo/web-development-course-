@@ -1,0 +1,40 @@
+.button {
+    border: none;
+    text-align: center;
+    padding-top: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+
+ footer ul li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: inline;
+  }
+
+ul li {
+list-style-type: none;
+display: inline;
+}
+
+#form-search {
+    width: 50%;
+    display: flex;
+    flex: 100%;
+  
+}
+
+.search {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 12%;
+}
